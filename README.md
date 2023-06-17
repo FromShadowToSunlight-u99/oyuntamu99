@@ -36,7 +36,7 @@ FPS
 
 Yakın dövüş
 
-Hedef Kitle
+### _Hedef Kitle_
 
 Hikaye tabanlı , geçmiş zamanda geçen ve yakın dövüş seven oyuncular.
 
