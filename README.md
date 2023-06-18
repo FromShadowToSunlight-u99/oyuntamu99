@@ -36,12 +36,45 @@ FPS
 
 Yakın dövüş
 
-### _Hedef Kitle_
+Viking Village
 
-Hikaye tabanlı , geçmiş zamanda geçen ve yakın dövüş seven oyuncular.
+Hikaye tabanlı 
+
+Geçmiş zamanda geçen
+
+Yakın dövüş seven oyuncular
+
+
+### _Kullanılan Assetler_
+
+Decrepit Dungeon LITE
+
+Viking Village
+
+
+### _Sprint 1_
+
+Sprint Notları:Hikaye düşündük ve kullanabileceğimiz assetlere baktık.
+
+Sprint içinde tamamlanması tahmin edilen puan: 350 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 1000 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 300 ile başlaması gerektiğine karar verildi.
+
+Daily Scrum: Daily Scrum'lar her iki günde bir akşam saat 21:00'da Discord ses kanalı üzerinden yapılmıştır. Toplantı 1 saat sürmüştür.
+
+
+Sprint Review:
+
+Alınan Kararlar:Oyunun hikayesine karar verildi ve görev dağılımı yapıldı.
+
+
+Sprint Retrospective:
+
+Github kullanımı konusunda sorun yaşadık.
 
 
 
+### _Ürün Durumu_
 
 ![1](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/6dcf970b-af1f-4c8e-9252-8071bde09d41)
 ![2](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/53a347d6-edb2-4f6b-858b-153a1eebfb2f)
