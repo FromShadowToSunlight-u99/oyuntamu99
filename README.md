@@ -76,11 +76,12 @@ Github kullanımı konusunda sorun yaşadık.
 
 ### _Ürün Durumu_
 
-![1](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/6dcf970b-af1f-4c8e-9252-8071bde09d41)
-![2](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/53a347d6-edb2-4f6b-858b-153a1eebfb2f)
-![3](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/e1d2a54f-2635-43bc-bded-7ab161670912)
-![4](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/e33cb5cf-9dfc-444d-967f-a9f9961b5fb1)
-![5](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/e086c811-c589-447a-8404-9015fe75c3b0)
-![6](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/b9233fd1-55f0-4fdb-9cae-d05e0b4d2860)
-![7](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/21b84d31-2614-48b7-9e25-63879b6f6dab)
-![8](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/2ca3a050-0f2f-4e61-b156-f5c22d782389)
+![1](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/9367e70f-ef4a-4261-bac3-7dc0b8e80235)
+![2](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/02145cf6-1d87-41fd-816a-45cc7f7f6746)
+![3](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/5bdebd87-33ac-4593-92c4-94470d601cf1)
+![4](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/99f6a863-6c17-4c91-992d-80ce0cdf261e)
+![5](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/d8ed3fd4-6712-4bb0-8665-cc8f214a8f1d)
+![6](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/39687ffe-9800-4c5c-8e17-f61d74e500b6)
+![7](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/ac0e225a-49f0-424b-adc4-346de636fa15)
+![8](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/51333837-5170-4018-81e0-0478c243dbbd)
+
