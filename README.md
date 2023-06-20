@@ -63,6 +63,10 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 1000 pua
 Daily Scrum: Daily Scrum'lar her iki günde bir akşam saat 21:00'da Discord ses kanalı üzerinden yapılmıştır. Toplantı 1 saat sürmüştür.
 
 
+![sprint asana](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/804bdc03-200d-4799-ac63-62478bac325d)
+
+
+
 Sprint Review:
 
 Alınan Kararlar:Oyunun hikayesine karar verildi ve görev dağılımı yapıldı.
