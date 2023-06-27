@@ -127,6 +127,12 @@ Gardiyan için hazır asset kullanılacaktır
 ![sprin2-2](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/7d8b6a21-3bee-4301-ba2b-b1e9e0e8e88a)
 
 
+![sprin2-3](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/d592bbf8-d77c-4b95-9f09-0bdd1ae41df0)
+![sprin2-4](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/43f2391a-394d-40ae-9885-77f688a3a6f3)
+![sprin2-5](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/ea23b094-f417-4589-8c1c-20418a48ab27)
+
+
+
 
 
 ### _Ürün Durumu_
