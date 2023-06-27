@@ -102,6 +102,7 @@ Github kullanımı konusunda sorun yaşadık.
 
 
 Alınması düşünülen kararlar:
+
 1- Köy asseti hata vermesinden dolayı çıkartlabilir ve mahkum zindandan çıktıktan sonra direkt ormana yürür
 
 2-Zincir iptal edilebilir direkt zindan odasında bulunan tahtayla anahtar alınıp çıkış yapılması daha kolay olacaktır
