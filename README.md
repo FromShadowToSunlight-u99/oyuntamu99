@@ -98,6 +98,35 @@ Sprint Retrospective:
 Github kullanımı konusunda sorun yaşadık.
 
 
+### _Sprint 2_
+
+
+Alınması düşünülen kararlar:
+1- Köy asseti hata vermesinden dolayı çıkartlabilir ve mahkum zindandan çıktıktan sonra direkt ormana yürür
+
+2-Zincir iptal edilebilir direkt zindan odasında bulunan tahtayla anahtar alınıp çıkış yapılması daha kolay olacaktır
+
+3- Kale assetinin dış görünüşü belirlendi
+
+Bir dahaki toplantı için yapılacaklar:
+
+1- kapı açma kodu
+
+2- anahtar alma kodu
+
+3- Düşman saldırma kodu
+
+( 3 temmuza kadar 1. sprint gibi ss ler ve puan belirlenip dosyaya eklenecektir)
+
+Ayrıca ana karakter tasarlanacak
+
+Gardiyan için hazır asset kullanılacaktır
+
+![sprin2-1](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/3b8212ae-6309-48d9-9e44-9eb05a3d6d7c)
+![sprin2-2](https://github.com/FromShadowToSunlight-u99/oyuntamu99/assets/135546223/7d8b6a21-3bee-4301-ba2b-b1e9e0e8e88a)
+
+
+
 
 ### _Ürün Durumu_
 
